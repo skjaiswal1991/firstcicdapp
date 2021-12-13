@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome my fiest successfully deployee ciCD on aws server
+          ð
         </p>
         <a
           className="App-link"
